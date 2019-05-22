@@ -5,4 +5,6 @@ Simulator
 Auf dieser Seite kannst du den Bankier Algorithmus für beliebige Ausgangszustände simulieren. Es werden sogar alle Zwischenschritte angezeigt.
 Die Spalten der Matrix werden durch Kommas getrennt, die Zeilen einfach durch Zeilen.
 
+### Probier es aus unter: [www.superjojo.de/banker](http://superjojo.de/banker/)
+
 ![Screenshot](https://github.com/superjojo140/bankers/blob/master/bankers_screenshot.png)
